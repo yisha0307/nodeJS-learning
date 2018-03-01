@@ -7,3 +7,6 @@ https://segmentfault.com/a/1190000008993319
 killall -9 node
 ```
 解决`Error: listen EADDRINUSE`问题
+
+### 二、node在线学习：
+Node入门  https://www.nodebeginner.org/index-zh-cn.html
